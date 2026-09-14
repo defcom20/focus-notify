@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="a11y_description">Permite a Focus Notify borrar la sesión de Firefox Focus y reiniciarla mediante una notificación.</string>
+    <string name="accessibility_service_label">Servicio de accesibilidad de Focus Notify</string>
+</resources>
